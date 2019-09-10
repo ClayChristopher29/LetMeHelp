@@ -1,0 +1,86 @@
+{
+    "addictionResources": [{
+            "id": 1,
+            "name": "Addictions Services for Pregnant Women",
+            "description": "This is a program for pregnant women who are struggling with addiction",
+            "location": "1340 Hal Greer Boulevard, Huntington, West Virginia",
+            "url": "http://www.cabellhuntington.org/",
+            "phone": "304-691-1400"
+        },
+        {
+            "id": 2,
+            "name": "Advocate House",
+            "description": "",
+            "location": "738 Washington Avenue, Huntington West Virginia",
+            "url": "",
+            "phone": "304-208-0215"
+        },
+        {
+            "id": 3,
+            "name": "Appalachian Health",
+            "description": "Physician Supervised - Counselor Driven We specialize in treating chemical dependency",
+            "location": "601 20th Street, Huntington, West Virginia",
+            "url": "http://www.ahs.healthcare/index.php",
+            "phone": "Phone: 304-781-0212"
+        },
+        {
+            "id": 4,
+            "name": "Area Psychiatric & Psychotherapy Group",
+            "description": "Outpatient",
+            "location": "10 6th Avenue W, Huntington 25702",
+            "url": "",
+            "phone": "304-525-9355"
+        },
+        {
+            "id": 5,
+            "name": "Counseling Center",
+            "description": "Counseling is an oppurtunity",
+            "location": "10 6th Avenue W, Huntington 25702",
+            "url": "",
+            "phone": "304-525-9355"
+        },
+        {
+            "id": 6,
+            "name": "Family Service Counseling",
+            "description": "Behavioral Health outpatient, with individual counseling on substance abuse",
+            "location": "1102 Memorial Boulevard, West Huntington, West Virginia 25701",
+            "url": "http://www.goodwillhunting.org",
+            "phone": "304-523-9454"
+        },
+        {
+            "id": 7,
+            "name": "Huntington Comprehensive Treatment Center",
+            "description": "Medicated Assisted Treatment",
+            "location": "135 4th Ave. Huntington West Virginia, 25701",
+            "url": "www.crchealth.com",
+            "phone": "304-525-5691"
+        },
+        {
+            "id": 8,
+            "name": "Veterans Affairs Hospital",
+            "description": "",
+            "location": "1540 Spring Valley Drive, Huntington West Virginia 25704",
+            "url": "www.huntington.va.gov",
+            "phone": "304-429-6741"
+        },
+        {
+            "id": 9,
+            "name": "Newness of Life",
+            "description": "Every day we walk in the newness of life, We are a peer supported addiction therapy",
+            "location": "2210 9th Ave, Huntington, West Virginia 25703",
+            "url": "http://www.newness-of-life.org/",
+            "phone": "304-972-6601"
+        },
+        {
+            "id": 10,
+            "name": "Oxford House",
+            "description": " Residential Non-treatment Recovery House",
+            "location": "1326 10th Avenue, Huntington West Virginia 25701",
+            "url": "www.oxforxdhouse./pdf/wv",
+            "phone": ""
+        }
+
+
+
+    ]
+}
